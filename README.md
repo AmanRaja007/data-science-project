@@ -1,9 +1,6 @@
 <h1>
 <center> Insights from City Supply and Demand Data </center></h1>
 
-This data project has been used as a take-home assignment in the recruitment process for the data science positions at Uber.
-
-#### Assignment
 Using the provided dataset, answer the following questions:
 
 1. Which date had the most completed trips during the two week period?
@@ -25,5 +22,3 @@ Date	      Time (Local)	  Eyeballs	Zeroes	Completed Trips	Requests	Unique Driver
 2012-09-10	        16	         11	       2	     3	            4	           6
 - This means that during the hour beginning at 4pm (hour 16), on September 10th, 2012, 11 people opened the Uber app (Eyeballs). 2 of them did not see any car (Zeroes) and 4 of them requested a car (Requests). Of the 4 requests, only 3 complete trips actually resulted (Completed Trips). During this time, there were a total of 6 drivers who logged in (Unique Drivers).
 
-### Practicalities
-Please work on the questions in the displayed order. Make sure that the solution reflects your entire thought process - it is more important how the code is structured rather than the final answers. You are expected to spend no more than 2-3 hours solving this project.
